@@ -1,1 +1,1 @@
-RawGens Core Plugin
+Plugin Template
